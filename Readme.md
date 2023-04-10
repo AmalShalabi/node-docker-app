@@ -11,7 +11,7 @@ To run this application, follow these steps:
 
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/example/node-docker-app.git
+https://github.com/AmalShalabi/node-docker-app.git
 ```
 2. Change into the root directory of the cloned repository:
 ```
